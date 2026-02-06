@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" width="100%" />
+</p>
+
  Assistant Vocal Senior — MVP
  
 Un assistant vocal simple, fiable et sécurisé pour accompagner les seniors dans la gestion de leurs médicaments.
